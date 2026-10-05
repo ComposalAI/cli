@@ -20,8 +20,6 @@ use to ship.
 
 ## Install
 
-> The first npm release is being published. The standalone installer is available now.
-
 With **Node.js 18 or newer**:
 
 ```sh
