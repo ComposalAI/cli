@@ -1,9 +1,6 @@
 <div align="center">
   <a href="https://composal.ai">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ComposalAI/cli/main/assets/composal-logo-dark.svg">
-      <img src="https://raw.githubusercontent.com/ComposalAI/cli/main/assets/composal-logo-light.svg" width="88" height="88" alt="Composal">
-    </picture>
+    <img src="https://raw.githubusercontent.com/ComposalAI/cli/main/assets/composal-silver-sticker.svg" width="320" alt="Composal silver foil sticker">
   </a>
   <h1>Composal CLI</h1>
   <p><strong>Verify changes. Ship apps. Equip your agents.</strong></p>
