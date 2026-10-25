@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://composal.ai">
+  <a href="https://composal.com">
     <img src="https://raw.githubusercontent.com/ComposalAI/cli/main/assets/composal-silver-sticker.svg" width="320" alt="Composal silver foil sticker">
   </a>
   <h1>Composal CLI</h1>
@@ -7,8 +7,8 @@
   <p>
     <a href="https://www.npmjs.com/package/@composal/cli">npm</a> ·
     <a href="https://github.com/ComposalAI/cli">GitHub</a> ·
-    <a href="https://composal.ai/docs">Documentation</a> ·
-    <a href="https://composal.ai">Composal</a>
+    <a href="https://composal.com/docs">Documentation</a> ·
+    <a href="https://composal.com">Composal</a>
   </p>
 </div>
 
@@ -29,7 +29,7 @@ npm install -g @composal/cli
 Prefer the standalone installer? No Node.js required:
 
 ```sh
-curl -fsSL https://dl.composal.ai/install.sh | sh
+curl -fsSL https://dl.composal.com/install.sh | sh
 ```
 
 Both options install the `com` command. Supported platforms are **macOS Apple
@@ -52,20 +52,20 @@ com whoami
 com --help
 ```
 
-Follow the [quickstart](https://composal.ai/docs/quickstart) to connect your account
+Follow the [quickstart](https://composal.com/docs/quickstart) to connect your account
 and run your first commands.
 
 ## What you can do
 
 | | From your terminal |
 | --- | --- |
-| **[Verify](https://composal.ai/docs/verify)** | Test real browser journeys and inspect screenshots, recordings, and traces. |
-| **[Ship applications](https://composal.ai/docs/hosting)** | Deploy apps, manage services and preview environments, and inspect logs. |
-| **[Manage secrets](https://composal.ai/docs/cli)** | Store and retrieve secrets, or run commands with secrets injected into their environment. |
-| **[Equip your agents](https://composal.ai/docs/agents)** | Set up Composal skills and MCP tools for your coding agent. |
+| **[Verify](https://composal.com/docs/verify)** | Test real browser journeys and inspect screenshots, recordings, and traces. |
+| **[Ship applications](https://composal.com/docs/hosting)** | Deploy apps, manage services and preview environments, and inspect logs. |
+| **[Manage secrets](https://composal.com/docs/cli)** | Store and retrieve secrets, or run commands with secrets injected into their environment. |
+| **[Equip your agents](https://composal.com/docs/agents)** | Set up Composal skills and MCP tools for your coding agent. |
 
 Explore commands with `com verify --help`, `com deploy --help`, and
-`com secrets --help`. The [CLI reference](https://composal.ai/docs/cli) covers the
+`com secrets --help`. The [CLI reference](https://composal.com/docs/cli) covers the
 full command set.
 
 ### Connect your coding agent
@@ -96,10 +96,10 @@ com update
 
 ## Explore Composal
 
-- [Quickstart](https://composal.ai/docs/quickstart) — install, sign in, and get started.
-- [CLI reference](https://composal.ai/docs/cli) — commands and examples.
-- [Verify](https://composal.ai/docs/verify) — browser testing for your application.
-- [Hosting](https://composal.ai/docs/hosting) — deploy and operate your apps.
-- [Agent setup](https://composal.ai/docs/agents) — bring Composal to your coding workflow.
+- [Quickstart](https://composal.com/docs/quickstart) — install, sign in, and get started.
+- [CLI reference](https://composal.com/docs/cli) — commands and examples.
+- [Verify](https://composal.com/docs/verify) — browser testing for your application.
+- [Hosting](https://composal.com/docs/hosting) — deploy and operate your apps.
+- [Agent setup](https://composal.com/docs/agents) — bring Composal to your coding workflow.
 
 Found an issue or have an idea? [Let us know](https://github.com/ComposalAI/cli/issues).
